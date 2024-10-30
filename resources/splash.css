@@ -1,0 +1,225 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset,img { 
+	border:0;
+}
+address,caption,cite,code,dfn,em,strong,th,var {
+	font-style:normal;
+	font-weight:normal;
+}
+ol,ul {
+	list-style:none;
+}
+caption,th {
+	text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+q:before,q:after {
+	content:'';
+}
+abbr,acronym { border:0;
+}
+
+.clearLeft{
+	clear:left;
+	}
+
+body{
+	background:#fff;
+	font:14px/1.4 'PT Sans', Arial, Helvetica, sans-serif;
+	color:#444;
+	}
+#wrapper{
+	width:900px;
+	margin:0 auto;
+	}
+#branding{
+	width:820px;
+	padding:10px 40px;
+	height:80px;
+	position:relative;
+	}
+#branding h1{
+	float:left;
+	 padding-top: 20px;
+	}
+#branding a.support{
+	 background: url("images/Mail.png") no-repeat 20px 0px #DA853F;
+    -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;
+    clear: both;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 10px 20px 10px 60px;
+	margin:10px 0 10px;
+	text-decoration:none;
+	position:absolute;
+	top:15px;
+	right:40px;
+	color:#fff;
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+	}
+#branding a.support:hover{
+	background: url("images/Mail.png") no-repeat 20px 0px #AA642A;
+	}
+#header{
+	width:820px;
+	padding:40px;
+	-moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px;
+	background:#CFE6EF;
+	position:relative;
+	margin-bottom:30px;
+	}
+#wrapper #header h2{
+	margin:0 0 20px 0;
+	font:bold 24px/1.3 'Maven Pro', Arial, Helvetica, sans-serif;
+	color:#0F88B6;
+	float:left;
+	text-shadow:1px 1px 0 rgba(255,255,255,0.25);
+	}
+#wrapper #header p.desc{
+	font:bold 14px/1.5 'PT Sans', Arial, Helvetica, sans-serif;
+	text-shadow:1px 1px 0 rgba(255,255,255,0.5);
+	margin-bottom:20px;
+	}
+#wrapper #header h2,
+#wrapper #header p.desc{
+	width:475px;
+	margin-right:50px;
+	}
+#wrapper #header a.learnMore{
+	display:block; width:280px; height:57px;
+	padding:0 0 0 20px;
+	font:bold 24px/71px 'Maven Pro', Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-shadow:1px 1px 0 rgba(0,0,0,0.25);
+	text-decoration:none;
+	background:url(images/mainBtn.png) no-repeat;
+	height:71px;
+	}
+#wrapper #header a.learnMore:hover {
+    background-position: 0 -72px;
+}
+#wrapper #header .featuresAction {
+	position:absolute; top:60px; right:40px;
+}
+#wrapper #header .featuresAction p{
+	font:bold 15px/1.5 'PT Sans', Arial, Helvetica, sans-serif;
+	text-align:center;
+	text-shadow:1px 1px 0 rgba(255,255,255,0.5);
+	margin-top:20px;
+	}
+#wrapper .feature-wrap{
+	border:3px solid #EFECEA;
+	margin-top:-3px;
+	-moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px;
+	background:url(images/featureTabsBg.png) repeat-x top #fff;
+	padding:30px 27px 0;
+	float:left;
+	width: 840px;
+	margin-bottom:30px;
+	}
+#wrapper .feature-wrap h3{
+	color:#0F88B6;
+	font:bold 23px/1.3 'Maven Pro', Arial, Helvetica, sans-serif;
+	margin-bottom:30px;
+	clear:both;
+	}
+#wrapper .feature-wrap ul{
+	margin:0;
+	}
+#wrapper .feature-wrap ul li{
+	width:182px;
+	margin:0 38px 45px 0;
+	padding:0 0 0 60px;
+	float:left;
+	list-style:none;
+	font:bold 15px/1.3 'Maven Pro', Arial, Helvetica, sans-serif;
+	min-height:40px
+	}
+#wrapper .feature-wrap ul li.targetedSells{
+	background:url(images/targetedSells.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.oneClickSells{
+	background:url(images/oneClickSells.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.paiForwardLink{
+	background:url(images/paiForwardLink.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.saveSaleProcess{
+	background:url(images/saveSaleProcess.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.timeBased{
+	background:url(images/timeBased.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.noCreditCard{
+	background:url(images/noCreditCard.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.noDeveloper{
+	background:url(images/noDeveloper.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.oneClickUpgrades{
+	background:url(images/oneClickUpgrades.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.noCart{
+	background:url(images/noCart.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.expiringMemberships{
+	background:url(images/expiringMemberships.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.customregistration{
+	background:url(images/customregistration.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.trialMembers{
+	background:url(images/trialMembers.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.accessTags{
+	background:url(images/accessTags.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.promotions{
+	background:url(images/promotions.jpg) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.api{
+	background:url(images/api.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.IntegratedTracking{
+	background:url(images/IntegratedTracking.png) no-repeat 10px 0;
+	}
+	#wrapper .feature-wrap ul li.accountPage{
+	background:url(images/accountPage.png) no-repeat 10px 0;
+	}
+#wrapper .feature-wrap ul li.accountSharingPrevention{
+	background:url(images/accountSharingPrevention.jpg) no-repeat 10px 0;
+	}
+#wrapper .payment{
+	width:900px;
+	clear:both;
+	margin:30px 0;
+	padding:15px 0 20px;	
+	background:#CFE6EF;
+	-moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px;
+	}
+#wrapper .payment h3{
+	color:#333;
+	font:bold 21px/1.3 'Maven Pro', Arial, Helvetica, sans-serif;
+	margin:10px 0 20px 40px;
+	text-shadow:1px 1px 0 rgba(255,255,255,0.5);
+}
+
+#wrapper .payment p{
+	text-align:center;
+	}
+#wrapper .payment img{
+	padding: 0 39px;
+	display:inline;
+	vertical-align:middle;
+	}

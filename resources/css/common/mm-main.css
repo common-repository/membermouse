@@ -1,0 +1,239 @@
+
+a img {
+	vertical-align: middle;	
+}
+
+.mm-header-text {
+	padding: 5px 15px 3px 0px;
+}
+
+.mm-header-icon {
+	float: left; 
+	margin:8px 4px 0 0; 
+	vertical-align:middle;	
+}
+.mm-code {
+	font-family: Courier New, monospace;
+}
+
+.mm-section-header {
+	font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	color: #555;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 13px;
+}
+
+.l {
+	float:					left;
+}
+
+.r {
+	float:					right;
+}
+
+.c {
+	overflow:				hidden;
+	zoom:					1;
+}
+
+.wrap {
+	padding-bottom:			20px;
+}
+
+.mm-button-container {
+	margin:	10px 0 15px;
+}
+
+img .badge {
+	max-width:				100px;
+	max-height:				100px;
+	min-width:				5px;
+	min-height:				5px;	
+}
+
+.message-container {
+	border:					solid 1px #f66a6a;
+	background-color:		#ffdddd;
+	padding:				5px 20px;
+	margin-bottom:			20px;
+	border-radius:			5px;
+	-moz-border-radius: 	5px;	
+	-webkit-border-radius: 	5px;
+}
+
+.mm-error {
+	border:					solid 1px #f66a6a;
+	background-color:		#ffdddd;
+}
+
+.mm-header-tabs {   
+    float:              left;   
+    padding-top:        7px;
+    margin-bottom:      5px;
+}
+
+.mm-header-tabs ul {    
+    float:              left;   
+    border-bottom:      solid 1px #cccccc;
+    margin-top:         10px;
+    padding:            3px 0px 0px;
+}
+
+.mm-header-tabs ul li { 
+    float:              left;   
+    margin:             0px 2px;
+    padding:            3px 10px;   
+    font-size:          11px;   
+    border:             solid 1px #dfdfdf;
+    border-bottom:      none;   
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;   
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.mm-header-tabs ul li.active {
+    background:         #ededed;
+}
+
+.mm-header-tabs ul li.selected {
+    background:         #d4d4d4;
+    border-color:       #cccccc;
+    font-weight:        bold;
+}
+
+.mm-header-tabs ul li a {
+    text-decoration:    none;
+    white-space:        nowrap;
+}
+
+.mm-header-tabs ul li a:hover {
+    text-decoration:    underline;      
+}
+
+.mm-divider {
+	border-bottom: 1px dotted #C1C1C1;
+}
+
+/** FORM CONTAINER **/
+#mm-form-container table {
+	width: 100%;
+	cellspacing: 10;	
+}
+
+#mm-form-container td {
+	vertical-align: top;
+	font-size: 12px;	
+}
+
+#mm-form-container .short-text {
+	width: 120px;
+}
+
+#mm-form-container .medium-text {
+	width: 300px;
+}
+
+#mm-form-container .long-text {
+	width: 400px;
+}
+
+#mm-form-container select {
+	width: 200px;
+}
+
+/** DATA GRID **/
+#mm-data-grid th img {
+	vertical-align: middle;	
+}
+
+#mm-data-grid td {
+	vertical-align: middle;	
+}
+
+#mm-data-grid .center {
+	text-align: center;	
+}
+
+#mm-data-grid .name a {	
+	text-decoration:		underline;
+}
+
+#mm-data-grid .no-members {
+	background:				url("../../images/group-gray.png") no-repeat;
+	padding:				1px 1px 1px 20px;
+	margin:					2px 0 4px;
+}
+
+#mm-data-grid .has-members {
+	background:				url("../../images/group.png") no-repeat;
+	padding:				1px 1px 1px 20px;
+	margin:					2px 0 4px;
+}
+
+#mm-adminpreview-open {
+	margin-top: 0px; 
+	margin-left: 10px;
+	padding-left: 12px;
+	width: 709px; 
+	height: 65px; 
+	z-index: 999;  
+	color: #9B948A;
+	position: absolute; 
+	top:0px;
+	background: url("../../images/preview-bkgd-open.png") no-repeat;
+}
+
+#mm-adminpreview-open .header, #mm-adminpreview-closed .header {
+	font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	color: #CC8834;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 13px;	
+}
+
+#mm-adminpreview-open .headerLink {
+	font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	color: #627F9C;
+	font-style: italic;
+	font-size: 11px;
+	float: right;
+	padding-right: 28px;
+}
+
+#mm-adminpreview-open-top {
+	padding-top: 4px;
+}
+
+#mm-adminpreview-open-bottom {
+	padding-top: 8px;
+}
+
+#mm-adminpreview-closed {
+	margin-top: 0px; 
+	margin-left: 10px;
+	padding-top: 4px;
+	padding-left: 12px;
+	width: 271px; 
+	height: 35px; 
+	z-index: 999;  
+	position: absolute; 
+	top:0px;
+	background: url("../../images/preview-bkgd-closed.png") no-repeat;
+}
+
+#mm-preview-access-tags {
+	margin-top: 4px; 
+	padding-top: 5px; 
+	padding-left: 5px; 
+	padding-bottom: 5px; 
+	display:none; 
+	background-color: #F4F0EC; 
+	z-index: 300; 
+	height: 120px; 
+	width: 200px; 
+	border: 1px solid #CCC2B7;
+}

@@ -1,0 +1,234 @@
+@CHARSET "UTF-8";
+#mm-myaccount{
+}
+.mm-myaccount-back{
+	clear:both;
+	padding-bottom: 10px;
+	font-size: 15px;
+}
+
+.mm-myaccount-error{
+	color: red;
+	font-weight: bold;
+	clear:both;
+	width: 700px;
+	text-align:center;
+	padding-bottom: 10px;
+}
+
+#mm-myaccount-ssl{
+	color: red;
+	font-weight: bold;
+	clear:both;
+	width: 700px;
+	text-align:center;
+	padding-bottom: 10px;
+}
+
+.mm-myaccount-title-right{
+	float:right; 
+	padding-right: 10px
+}
+
+.mm-myaccount-history-header{
+	background-color: #ccc;	
+}
+
+/** Membership **/
+#mm-myaccount #mm-myaccount-membership {
+	float:left;
+	border: 1px solid #ccc;	
+	background-color: #fff;
+	width: 300px;
+	padding-bottom: 10px;
+}
+
+#mm-myaccount #mm-myaccount-membership #mm-myaccount-membership-body {
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+#mm-myaccount #mm-myaccount-membership #mm-myaccount-membership-title {
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #EEEEEE;
+	text-align:left;
+}
+
+/** Subscriptions **/
+#mm-myaccount #mm-myaccount-subscriptions {
+	float:left;
+	border: 1px solid #ccc;	
+	background-color: #fff;
+	width: 300px;
+	margin-left: 10px;
+	padding-bottom: 10px;
+}
+
+#mm-myaccount #mm-myaccount-subscriptions #mm-myaccount-subscriptions-body {
+	
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+#mm-myaccount #mm-myaccount-subscriptions #mm-myaccount-subscriptions-title {
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #EEEEEE;
+	text-align:left;
+}
+
+/** Account Details **/
+#mm-myaccount #mm-myaccount-details {
+	clear:left;
+	float:left;
+	border: 1px solid #ccc;	
+	background-color: #fff;
+	width: 300px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+#mm-myaccount #mm-myaccount-details #mm-myaccount-details-body {
+	
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+#mm-myaccount #mm-myaccount-details #mm-myaccount-details-title {
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #EEEEEE;
+	text-align:left;
+}
+/** Billing Details **/
+#mm-myaccount #mm-myaccount-billing {
+	float:left;
+	border: 1px solid #ccc;	
+	background-color: #fff;
+	width: 300px;
+	margin-left: 10px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+#mm-myaccount #mm-myaccount-billing #mm-myaccount-billing-body {
+	
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+#mm-myaccount #mm-myaccount-billing #mm-myaccount-billing-title {
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #EEEEEE;
+	text-align:left;
+}
+/** Shipping Details **/
+#mm-myaccount #mm-myaccount-shipping {
+	clear:left;
+	float:left;
+	border: 1px solid #ccc;	
+	background-color: #fff;
+	width: 300px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+#mm-myaccount #mm-myaccount-shipping #mm-myaccount-shipping-body {
+	
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+#mm-myaccount #mm-myaccount-shipping #mm-myaccount-shipping-title {
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #EEEEEE;
+	text-align:left;
+}
+/** Order History **/
+#mm-myaccount #mm-myaccount-history{
+	clear:both;
+	border: 1px solid #ccc;	
+	background-color: #fff;
+	width: 780px;
+	padding-bottom: 10px;
+}
+
+#mm-myaccount #mm-myaccount-history #mm-myaccount-history-body {
+	
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+#mm-myaccount #mm-myaccount-history #mm-myaccount-history-title {
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #EEEEEE;
+	text-align:left;
+}
+
+/* General Subpage elements */
+.mm-subpage-title{
+	font-weight: bold;
+}
+
+.mm-subpage-labels{
+	color: #000;
+}
+
+.mm-myaccount-details-table input{
+	width: 225px;
+}
+
+.mm-myaccount-details-table select{
+	
+}
+
+#mm-subpage-account-details{
+	
+}
+
+#mm-subpage-billing-details{
+	
+}
+
+#mm-subpage-shipping-details{
+	
+}
+
+#mm-subpage-order-history{
+	
+}
+/* Account Details Page */
+.mm-account-details-table{
+	border: 1px solid #eee;		
+}
+	
+/* LOGIN */
+.mm-login-form{
+	
+}
+
+.mm-login-label{
+	
+}
+
+.mm-login-form .fields{
+	width: 225px;
+}
+.mm-login-form button{
+	
+}
+.mm-login-button{
+	width: 50px;
+}
+	
+	

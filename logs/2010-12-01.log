@@ -1,0 +1,129 @@
+12/01/2010 09:30:40 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=campaign_view&campaign_id=6&\""
+
+12/01/2010 09:30:41 pm :
+"sync() : {\"response_code\":\"100\",\"campaign_name\":\"MemberMouse\",\"campaign_description\":\"Main MemberMouse campaign\",\"product_id\":\"25,27,29\",\"shipping_id\":\"2\",\"shipping_name\":\"Instant Access,\",\"shipping_description\":\"Instant,\",\"shipping_recurring_price\":\"0.00\",\"shipping_initial_price\":\"0.00\",\"countries\":\"US\",\"payment_name\":\"amex,discover,master,visa\"}"
+
+12/01/2010 09:30:41 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=product_index&product_id=25,27,29&\""
+
+12/01/2010 09:33:52 pm :
+"getPreviewAccess() : {\"member_types\":[\"1\"],\"access_tags\":[3,\"\"],\"days_as_member\":\"1\"}"
+
+12/01/2010 09:34:05 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=campaign_view&campaign_id=6&\""
+
+12/01/2010 09:34:06 pm :
+"sync() : {\"response_code\":\"100\",\"campaign_name\":\"MemberMouse\",\"campaign_description\":\"Main MemberMouse campaign\",\"product_id\":\"25,27,29\",\"shipping_id\":\"2\",\"shipping_name\":\"Instant Access,\",\"shipping_description\":\"Instant,\",\"shipping_recurring_price\":\"0.00\",\"shipping_initial_price\":\"0.00\",\"countries\":\"US\",\"payment_name\":\"amex,discover,master,visa\"}"
+
+12/01/2010 09:34:06 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=product_index&product_id=25,27,29&\""
+
+12/01/2010 09:34:06 pm :
+"syncProducts() : 25,27,29 : {\"response_code\":\"100,100,100,\",\"product_name\":\"Basic Beta (Free Trial),Professional Beta (Free Trial),Enterprise Beta (Free Trial),\",\"product_description\":\"Basic Beta (Free Trial),Professional Beta (Free Trial),Enterprise Beta (Free Trial),\",\"product_sku\":\"1000,1002,1004,\",\"product_price\":\"0.0000,0.0000,0.0000,\",\"product_category_name\":\"MemberMouse,MemberMouse,MemberMouse,\",\"product_is_trial\":\"1,1,1,\",\"product_is_shippable\":\"0,0,0,\",\"product_rebill_product\":\"26,28,30,\",\"product_rebill_days\":\"14,14,14,\"}"
+
+12/01/2010 09:35:17 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=campaign_view&campaign_id=6&\""
+
+12/01/2010 09:35:18 pm :
+"sync() : {\"response_code\":\"100\",\"campaign_name\":\"MemberMouse\",\"campaign_description\":\"Main MemberMouse campaign\",\"product_id\":\"25,27,29\",\"shipping_id\":\"2\",\"shipping_name\":\"Instant Access,\",\"shipping_description\":\"Instant,\",\"shipping_recurring_price\":\"0.00\",\"shipping_initial_price\":\"0.00\",\"countries\":\"US\",\"payment_name\":\"amex,discover,master,visa\"}"
+
+12/01/2010 09:35:18 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=product_index&product_id=25,27,29&\""
+
+12/01/2010 09:35:19 pm :
+"syncProducts() : 25,27,29 : {\"response_code\":\"100,100,100,\",\"product_name\":\"Basic Beta (Free Trial),Professional Beta (Free Trial),Enterprise Beta (Free Trial),\",\"product_description\":\"Basic Beta (Free Trial),Professional Beta (Free Trial),Enterprise Beta (Free Trial),\",\"product_sku\":\"1000,1002,1004,\",\"product_price\":\"0.0000,0.0000,0.0000,\",\"product_category_name\":\"MemberMouse,MemberMouse,MemberMouse,\",\"product_is_trial\":\"1,1,1,\",\"product_is_shippable\":\"0,0,0,\",\"product_rebill_product\":\"26,28,30,\",\"product_rebill_days\":\"14,14,14,\"}"
+
+12/01/2010 09:35:19 pm :
+"insert into mm_products set \tid='%d',\tname='%s',\tsku='%s',\tdescription='%s',\tprice='%s',\tcategory_name='%s',\tis_shippable='%d',\tis_trial='%d',\trebill_period='%d',\trebill_product_id='%d'\tstatus='1' : false"
+
+12/01/2010 09:35:19 pm :
+"insert into mm_products set \tid='%d',\tname='%s',\tsku='%s',\tdescription='%s',\tprice='%s',\tcategory_name='%s',\tis_shippable='%d',\tis_trial='%d',\trebill_period='%d',\trebill_product_id='%d'\tstatus='1' : false"
+
+12/01/2010 09:35:19 pm :
+"insert into mm_products set \tid='%d',\tname='%s',\tsku='%s',\tdescription='%s',\tprice='%s',\tcategory_name='%s',\tis_shippable='%d',\tis_trial='%d',\trebill_period='%d',\trebill_product_id='%d'\tstatus='1' : false"
+
+12/01/2010 09:36:13 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=campaign_view&campaign_id=6&\""
+
+12/01/2010 09:36:15 pm :
+"sync() : {\"response_code\":\"100\",\"campaign_name\":\"MemberMouse\",\"campaign_description\":\"Main MemberMouse campaign\",\"product_id\":\"25,27,29\",\"shipping_id\":\"2\",\"shipping_name\":\"Instant Access,\",\"shipping_description\":\"Instant,\",\"shipping_recurring_price\":\"0.00\",\"shipping_initial_price\":\"0.00\",\"countries\":\"US\",\"payment_name\":\"amex,discover,master,visa\"}"
+
+12/01/2010 09:36:15 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=product_index&product_id=25,27,29&\""
+
+12/01/2010 09:36:15 pm :
+"syncProducts() : 25,27,29 : {\"response_code\":\"100,100,100,\",\"product_name\":\"Basic Beta (Free Trial),Professional Beta (Free Trial),Enterprise Beta (Free Trial),\",\"product_description\":\"Basic Beta (Free Trial),Professional Beta (Free Trial),Enterprise Beta (Free Trial),\",\"product_sku\":\"1000,1002,1004,\",\"product_price\":\"0.0000,0.0000,0.0000,\",\"product_category_name\":\"MemberMouse,MemberMouse,MemberMouse,\",\"product_is_trial\":\"1,1,1,\",\"product_is_shippable\":\"0,0,0,\",\"product_rebill_product\":\"26,28,30,\",\"product_rebill_days\":\"14,14,14,\"}"
+
+12/01/2010 09:36:16 pm :
+"insert into mm_products set \tid='%d',\tname='%s',\tsku='%s',\tdescription='%s',\tprice='%s',\tcategory_name='%s',\tis_shippable='%d',\tis_trial='%d',\trebill_period='%d',\trebill_product_id='%d', \tstatus='1' : 1"
+
+12/01/2010 09:36:16 pm :
+"insert into mm_products set \tid='%d',\tname='%s',\tsku='%s',\tdescription='%s',\tprice='%s',\tcategory_name='%s',\tis_shippable='%d',\tis_trial='%d',\trebill_period='%d',\trebill_product_id='%d', \tstatus='1' : 1"
+
+12/01/2010 09:36:16 pm :
+"insert into mm_products set \tid='%d',\tname='%s',\tsku='%s',\tdescription='%s',\tprice='%s',\tcategory_name='%s',\tis_shippable='%d',\tis_trial='%d',\trebill_period='%d',\trebill_product_id='%d', \tstatus='1' : 1"
+
+12/01/2010 09:36:16 pm :
+"MM_Product.getData(): error retrieving data for product with id of 26. Query run is SELECT * FROM mm_products WHERE id='26';"
+
+12/01/2010 09:36:16 pm :
+"MM_Product.getData(): error retrieving data for product with id of 30. Query run is SELECT * FROM mm_products WHERE id='30';"
+
+12/01/2010 09:36:16 pm :
+"MM_Product.getData(): error retrieving data for product with id of 28. Query run is SELECT * FROM mm_products WHERE id='28';"
+
+12/01/2010 09:38:21 pm :
+"memberExists() : matt"
+
+12/01/2010 09:38:21 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=NewOrder&campaignId=6&productId=27&shippingId=2&billingSameAsShipping=YES&creditCardType=discover&creditCardNumber=1231241234234234&expirationDate=0112&CVV=213&tranType=Sale&firstName=Matt&lastName=Young&phone=1231231234&email=matt.young@gothosting.org&shippingAddress1=test&shippingCity=city&shippingState=NY&shippingZip=&shippingCountry=&billingAddress1=test&billingCity=city&billingState=NY&billingZip=12345&billingCountry=US&ipAddress=127.0.0.1&notes=order created by MemberMouse&AFID=&SID=&AFFID=&C1=&C2=&C3=&AID=&OPT=&\""
+
+12/01/2010 09:41:30 pm :
+"createMember: {\"mm_step\":\"4\",\"mm_order_member_type\":\"2\",\"mm_order_username\":\"matt\",\"mm_order_password\":\"password\",\"mm_order_password_confirm\":\"password\",\"mm_order_email\":\"matt.young@gothosting.org\",\"mm_order_email_confirm\":\"matt.young@gothosting.org\",\"mm_order_first_name\":\"Matt\",\"mm_order_last_name\":\"Young\",\"mm_order_billing_address\":\"test\",\"mm_order_billing_city\":\"city\",\"mm_order_billing_state\":\"NY\",\"mm_order_billing_zip\":\"12345\",\"mm_order_billing_country\":\"US\",\"mm_order_phone\":\"1231231234\",\"mm_order_payment_method\":\"discover\",\"mm_order_cc_number\":\"1231241234234234\",\"mm_order_cc_exp_month\":\"01\",\"mm_order_cc_exp_year\":\"12\",\"mm_order_cc_security_code\":\"213\",\"mm_order_shipping_method\":\"2\",\"mm_order_shipping_same_as_billing\":\"YES\",\"mm_order_shipping_address\":\"test\",\"mm_order_shipping_city\":\"city\",\"mm_order_shipping_state\":\"NY\",\"mm_back\":\"Back\",\"mm_next\":\"Continue\",\"mm_action\":\"placeNewOrder\",\"type\":\"json\",\"step\":\"4\",\"method\":\"performAction\",\"action\":\"module-handle\",\"module\":\"MM_RegistrationView\"}"
+
+12/01/2010 09:41:30 pm :
+"memberExists() : matt"
+
+12/01/2010 09:41:30 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=NewOrder&campaignId=6&productId=27&shippingId=2&billingSameAsShipping=YES&creditCardType=discover&creditCardNumber=1231241234234234&expirationDate=0112&CVV=213&tranType=Sale&firstName=Matt&lastName=Young&phone=1231231234&email=matt.young@gothosting.org&shippingAddress1=test&shippingCity=city&shippingState=NY&shippingZip=&shippingCountry=&billingAddress1=test&billingCity=city&billingState=NY&billingZip=12345&billingCountry=US&ipAddress=127.0.0.1&notes=order created by MemberMouse&AFID=&SID=&AFFID=&C1=&C2=&C3=&AID=&OPT=&\""
+
+12/01/2010 09:53:42 pm :
+"createMember: {\"mm_step\":\"4\",\"mm_order_member_type\":\"2\",\"mm_order_username\":\"matt\",\"mm_order_password\":\"password\",\"mm_order_password_confirm\":\"password\",\"mm_order_email\":\"matt.young@gothosting.org\",\"mm_order_email_confirm\":\"matt.young@gothosting.org\",\"mm_order_first_name\":\"Matt\",\"mm_order_last_name\":\"Young\",\"mm_order_billing_address\":\"test\",\"mm_order_billing_city\":\"city\",\"mm_order_billing_state\":\"NY\",\"mm_order_billing_zip\":\"12345\",\"mm_order_billing_country\":\"US\",\"mm_order_phone\":\"1231231234\",\"mm_order_payment_method\":\"discover\",\"mm_order_cc_number\":\"1231241234234234\",\"mm_order_cc_exp_month\":\"01\",\"mm_order_cc_exp_year\":\"12\",\"mm_order_cc_security_code\":\"213\",\"mm_order_shipping_method\":\"2\",\"mm_order_shipping_same_as_billing\":\"YES\",\"mm_order_shipping_address\":\"test\",\"mm_order_shipping_city\":\"city\",\"mm_order_shipping_state\":\"NY\",\"mm_back\":\"Back\",\"mm_next\":\"Continue\",\"mm_action\":\"placeNewOrder\",\"type\":\"json\",\"step\":\"4\",\"method\":\"performAction\",\"action\":\"module-handle\",\"module\":\"MM_RegistrationView\"}"
+
+12/01/2010 09:53:42 pm :
+"memberExists() : matt"
+
+12/01/2010 09:53:42 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=NewOrder&campaignId=6&productId=27&shippingId=2&billingSameAsShipping=YES&creditCardType=discover&creditCardNumber=1231241234234234&expirationDate=0112&CVV=213&tranType=Sale&firstName=Matt&lastName=Young&phone=1231231234&email=matt.young@gothosting.org&shippingAddress1=test&shippingCity=city&shippingState=NY&shippingZip=&shippingCountry=&billingAddress1=test&billingCity=city&billingState=NY&billingZip=12345&billingCountry=US&ipAddress=127.0.0.1&notes=order created by MemberMouse&AFID=&SID=&AFFID=&C1=&C2=&C3=&AID=&OPT=&\""
+
+12/01/2010 10:05:55 pm :
+"createMember: {\"mm_step\":\"4\",\"mm_order_member_type\":\"2\",\"mm_order_username\":\"matt\",\"mm_order_password\":\"password\",\"mm_order_password_confirm\":\"password\",\"mm_order_email\":\"matt.young@gothosting.org\",\"mm_order_email_confirm\":\"matt.young@gothosting.org\",\"mm_order_first_name\":\"Matt\",\"mm_order_last_name\":\"Young\",\"mm_order_billing_address\":\"test\",\"mm_order_billing_city\":\"city\",\"mm_order_billing_state\":\"NY\",\"mm_order_billing_zip\":\"12345\",\"mm_order_billing_country\":\"US\",\"mm_order_phone\":\"1231231234\",\"mm_order_payment_method\":\"discover\",\"mm_order_cc_number\":\"1231241234234234\",\"mm_order_cc_exp_month\":\"01\",\"mm_order_cc_exp_year\":\"12\",\"mm_order_cc_security_code\":\"213\",\"mm_order_shipping_method\":\"2\",\"mm_order_shipping_same_as_billing\":\"YES\",\"mm_order_shipping_address\":\"test\",\"mm_order_shipping_city\":\"city\",\"mm_order_shipping_state\":\"NY\",\"mm_back\":\"Back\",\"mm_next\":\"Continue\",\"mm_action\":\"placeNewOrder\",\"type\":\"json\",\"step\":\"4\",\"method\":\"performAction\",\"action\":\"module-handle\",\"module\":\"MM_RegistrationView\"}"
+
+12/01/2010 10:05:55 pm :
+"memberExists() : matt"
+
+12/01/2010 10:05:55 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=NewOrder&campaignId=6&productId=27&shippingId=2&billingSameAsShipping=YES&creditCardType=discover&creditCardNumber=1231241234234234&expirationDate=0112&CVV=213&tranType=Sale&firstName=Matt&lastName=Young&phone=1231231234&email=matt.young@gothosting.org&shippingAddress1=test&shippingCity=city&shippingState=NY&shippingZip=&shippingCountry=&billingAddress1=test&billingCity=city&billingState=NY&billingZip=12345&billingCountry=US&ipAddress=127.0.0.1&notes=order created by MemberMouse&AFID=&SID=&AFFID=&C1=&C2=&C3=&AID=&OPT=&\""
+
+12/01/2010 10:10:15 pm :
+"createMember: {\"mm_step\":\"4\",\"mm_order_member_type\":\"2\",\"mm_order_username\":\"matt\",\"mm_order_password\":\"password\",\"mm_order_password_confirm\":\"password\",\"mm_order_email\":\"matt.young@gothosting.org\",\"mm_order_email_confirm\":\"matt.young@gothosting.org\",\"mm_order_first_name\":\"Matt\",\"mm_order_last_name\":\"Young\",\"mm_order_billing_address\":\"test\",\"mm_order_billing_city\":\"city\",\"mm_order_billing_state\":\"NY\",\"mm_order_billing_zip\":\"12345\",\"mm_order_billing_country\":\"US\",\"mm_order_phone\":\"1231231234\",\"mm_order_payment_method\":\"discover\",\"mm_order_cc_number\":\"1231241234234234\",\"mm_order_cc_exp_month\":\"01\",\"mm_order_cc_exp_year\":\"12\",\"mm_order_cc_security_code\":\"213\",\"mm_order_shipping_method\":\"2\",\"mm_order_shipping_same_as_billing\":\"YES\",\"mm_order_shipping_address\":\"test\",\"mm_order_shipping_city\":\"city\",\"mm_order_shipping_state\":\"NY\",\"mm_order_shipping_zip\":\"12345\",\"mm_order_shipping_country\":\"US\",\"mm_back\":\"Back\",\"mm_next\":\"Continue\",\"mm_action\":\"placeNewOrder\",\"type\":\"json\",\"step\":\"4\",\"method\":\"performAction\",\"action\":\"module-handle\",\"module\":\"MM_RegistrationView\"}"
+
+12/01/2010 10:10:15 pm :
+"memberExists() : matt"
+
+12/01/2010 10:10:15 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=NewOrder&campaignId=6&productId=27&shippingId=2&billingSameAsShipping=YES&creditCardType=discover&creditCardNumber=1231241234234234&expirationDate=0112&CVV=213&tranType=Sale&firstName=Matt&lastName=Young&phone=1231231234&email=matt.young@gothosting.org&shippingAddress1=test&shippingCity=city&shippingState=NY&shippingZip=12345&shippingCountry=US&billingAddress1=test&billingCity=city&billingState=NY&billingZip=12345&billingCountry=US&ipAddress=127.0.0.1&notes=order created by MemberMouse&AFID=&SID=&AFFID=&C1=&C2=&C3=&AID=&OPT=&\""
+
+12/01/2010 10:10:18 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=order_view&order_id=14367&\""
+
+12/01/2010 10:12:05 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=order_view&order_id=14367&\""
+
+12/01/2010 10:12:06 pm :
+"MM_LimeLightService.call(): \"username=tri8crm.com&password=8vdD2nXSaChQRi&method=order_update_recurring&order_id=14367&status=stop&\""
+
+12/01/2010 10:12:07 pm :
+"memberExists() : matt"
+

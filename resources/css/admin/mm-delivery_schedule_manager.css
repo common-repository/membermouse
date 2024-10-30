@@ -1,0 +1,141 @@
+.mm-dsm-header{
+	background-color: #D8D8D8;
+	border:1px solid #666;
+	color: #666;
+	padding: 2px 2px 2px 2px;
+}
+.mm-dsm-header-access-types{
+	background-color: #D8D8D8;
+	border:1px solid #666;
+	color: #666;
+	width: 170px;
+	padding: 2px 2px 2px 2px;
+}
+.mm-dsm-header-image-left{
+	float:left;
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.mm-dsm-header-image-right{
+	float:right;
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.mm-dsm-day-part1{
+	text-align:center;
+	border-right:1px solid #BBB;
+	color: #666;
+	width: 30px;
+}
+.mm-dsm-day-number{
+	width: 50px;	
+}
+
+.mm-dsm-cell{
+	text-align:center;
+	border:1px solid #BBB;
+	color: #666;
+}
+
+.mm-dsm-cell-days{
+	
+	height: 100%;width: 100%;	
+}
+
+.mm-dsm-expanded-row{
+		
+	width: 100%;
+	display:none;
+}
+.mm-dsm-cell-content-expanded-none{
+	width: 100%;
+	border-bottom:0px solid #BBB;
+	padding: 5px 5px 5px 5px;
+	color: #666;
+	
+}
+.mm-dsm-cell-content-expanded{
+	width: 100%;
+	border-bottom:1px dotted #BBB;
+	padding: 5px 5px 5px 5px;
+	color: #666;
+}
+
+.mm-dsm-cell-expand {
+	text-align:center;
+	border-right:1px solid #BBB;
+	color: #666;
+	width: 20px;
+}
+
+.mm-dsm-cell-content {
+	text-align:left;
+	width: 525px;
+}
+
+.mm-dsm-imagelink{
+	cursor: pointer;
+}
+
+.mm-dsm-cell-types{
+	text-align:center;
+	border:1px solid #BBB;
+	color: #666;
+	background-color: #C0DFFF;
+}
+.mm-dsm-options{
+	color: #666;
+	padding: 5px 5px 5px 5px; 
+	border: 1px solid #BBB; 
+	background-color: white;
+	height: 125px;
+	overflow: auto;
+	width: 210px	
+}
+.mm-dsm-expand-collapse-links{
+	color: #666;	
+}
+.mm-dsm-options-right{
+	color: #666;
+	padding: 5px 5px 5px 5px; 
+	border: 1px solid #BBB; 
+	background-color: white;
+	width: 210px;	
+	overflow: auto;
+	height: 125px;
+	float:left;
+}
+.mm-dsm-options-right-middle{
+	float:left;
+	margin-top: 50px;
+	text-align:center;
+	width: 25px;
+}
+.mm-dsm-section-button{
+	clear:both;
+	margin-top: 5px;
+}
+.mm-dsm-cell-types-alt{
+	text-align:center;
+	border:1px solid #BBB;
+	color: #666;
+}
+.mm-dsm-clear10{
+	clear:both;
+	padding-top: 10px;	
+}
+.mm-dsm-section-summary{
+	height: 40px;	
+}
+.mm-dsm-copy-schedule{
+	color: #666;
+	float:left;
+}
+.mm-dsm-view-schedule{
+	float:left;
+	color: #666;
+	width: 400px;
+}
